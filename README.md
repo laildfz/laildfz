@@ -1,16 +1,17 @@
-### Hi there 👋
+### 
 
-<!--
-**MasterZeno/MasterZeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello ! 
 
-Here are some ideas to get you started:
+My name is Laïl, software engineer with an appetite for the web domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I have a wide range of skills linked to my numerous professional experiences in various companies that have strengthened and enriched my skills.
+
+I generally work on complex projects requiring :
+
+- A technical design 
+- A robust and scalable architecture
+- A code respecting the conventions and the designs pattern
+- Tests (TDD)
+- Production (Google Cloud, Kuber, Docker, AWS)
+
 -->
