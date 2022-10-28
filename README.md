@@ -13,5 +13,3 @@ I generally work on complex projects requiring :
 - A code respecting the conventions and the designs pattern
 - Tests (TDD)
 - Production (Google Cloud, Kuber, Docker, AWS)
-
--->
