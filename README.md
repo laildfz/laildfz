@@ -2,7 +2,7 @@
 
 Hello ! 
 
-My name is Laïl, software engineer at Bridge and machine learning engineer at OpenClassrooms & Centrale Supélec  
+My name is Laïl, software engineer at Bridge and machine learning engineer student at OpenClassrooms & Centrale Supélec  
 
 I have a wide range of skills related to my professional experiences in various companies that have strengthened and enriched my skills.
 
