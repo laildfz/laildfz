@@ -2,14 +2,6 @@
 
 Hello ! 
 
-My name is Laïl, software engineer at Bridge and machine learning engineer student at OpenClassrooms & Centrale Supélec  
+My name is Laïl, I work as a ML engineer :brain: for a startup in Monaco and software engineer for a startup in Paris. 
 
-I have a wide range of skills related to my professional experiences in various companies that have strengthened and enriched my skills.
-
-I generally work on complex projects requiring :
-
-- A technical design 
-- A robust and scalable architecture
-- A code respecting the conventions and the designs pattern
-- Tests (TDD)
-- Production (Google Cloud, Kuber, Docker, AWS)
+I'm specialized in computer vision  :robot:
